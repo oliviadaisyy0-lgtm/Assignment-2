@@ -15,4 +15,5 @@ Java and Kotlin
 
 ## Code reference 
 https://www.buzzfeed.com/cutelilkid/how-many-of-the-myths-do-you-think-are-true-a8f7i2ph5b
+
 https://github.com/oliviadaisyy0-lgtm/Assignment-2/blob/main/main/AndroidManifest.xml
