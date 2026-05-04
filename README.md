@@ -1,8 +1,11 @@
 ## Assignment 2
+The app about how user guess true or false
 
 ## Youtube Video
 https://youtu.be/480rX74jii8
 
+## Programming languages
+Java and Kotlin
 
 ## Images
 <img width="300" alt="Start" src="https://github.com/user-attachments/assets/742e8967-bd39-40a6-84b6-e9624c02f13d" />
